@@ -38,3 +38,6 @@ type area<T>={
 };
 
 const area1:area<areaNum>={height:2,weidth:3};
+
+//testing assignment codes
+
