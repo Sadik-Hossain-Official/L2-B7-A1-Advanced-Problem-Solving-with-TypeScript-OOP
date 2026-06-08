@@ -41,3 +41,4 @@ If we pass a string, `T` becomes string.
 If we pass a number, `T` becomes number.  
 So, generics make code **reusable**, **flexible**, and **strictly typed at the same time**.
 
+testing git push
